@@ -1,0 +1,1 @@
+Olá, esse exercício foi relacionado ao aprendizado da sintaxe java, onde deveriamos simular um terminal bancario com possibilidade do usuario inserir as informações através da classe Scanner.
